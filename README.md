@@ -1,3 +1,4 @@
+# UNSTABLE!
 # binwalk-py
 ![image](https://github.com/user-attachments/assets/1606f51f-5615-4d95-8c51-77cbdd79675f)
 
@@ -7,7 +8,7 @@ uh the binwalk using python?
 
 * version: **Binwalk v2.2.0** (*latest (maybe) for python, v3+ for Rust*)
 
-* dependencies: **python 3.8+**
+* dependencies: **python 3.8+, 7zip on %PATH%**
 
 # Usage
 ## Windows
